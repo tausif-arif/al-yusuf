@@ -1,0 +1,3 @@
+this is details not logo there is all things in this you have to create a web app mobile first also seo optimized use lenis gsap also ui should not be traditional like its should be modern also ui should not be dark also ui should tell eevrything from its own what is this for whats the benefits what is this brand what is solving all end to end also read Agent.md also choose font wisely some example website https://lenis.dev/showcase https://www.awwwards.com/websites/gsap/
+
+https://mantrawise.vercel.app/ https://cipher.tv/ https://www.ciaoenergy.com/?utm_source=lenis https://rectangles.fm/?utm_source=lenis
