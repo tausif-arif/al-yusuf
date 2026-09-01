@@ -19,7 +19,7 @@ export function Story() {
       ScrollTrigger.create({
         trigger: scrollSectionRef.current,
         start: "top top",
-        end: "+=80%", 
+        end: "+=80%",
         pin: true,
       });
 
@@ -41,7 +41,7 @@ export function Story() {
 
   return (
     <section ref={scrollSectionRef} className="w-full h-[100dvh] bg-zinc-50 relative overflow-hidden border-b-hairline border-t-hairline">
-      
+
       {/* ─── CARD 1: The Worry (Chaos) ─── */}
       <div className="scroll-card absolute inset-0 w-full h-full bg-zinc-50 flex items-center justify-center p-6 border-b-hairline overflow-y-auto z-10">
         <div className="max-w-5xl w-full grid md:grid-cols-2 gap-12 items-center py-24 my-auto">
@@ -87,10 +87,10 @@ export function Story() {
       {/* Black shadow removed, border-t-hairline added */}
       <div className="scroll-card absolute inset-0 w-full h-full bg-[var(--background)] flex items-center justify-center p-6 border-t-hairline overflow-y-auto z-20">
         <div className="max-w-5xl w-full grid md:grid-cols-2 gap-12 items-center py-24 my-auto">
-          
+
           <div className="order-2 md:order-1 bg-zinc-50 p-8 md:p-12 border border-zinc-200 flex flex-col justify-center">
             <Heart className="w-12 h-12 mb-8 text-[var(--green)]" />
-            
+
             <div className="space-y-4">
               <div className="flex items-center gap-4 bg-[var(--background)] border border-zinc-200 p-4">
                 <Check className="w-6 h-6 text-[var(--green)]" />
