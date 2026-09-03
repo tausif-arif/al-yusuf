@@ -63,7 +63,7 @@ export function Footer() {
               </span>
             </Link>
             <p className="text-sm text-[var(--muted)] font-light leading-relaxed max-w-sm">
-              A covenant of trust carried since 2010 — guiding souls toward the Sacred House with honesty, devotion, and care that feels like family.
+              A covenant of trust — guiding souls toward the Sacred House with honesty, devotion, and care that feels like family.
             </p>
           </div>
           <div className="flex items-center gap-2 text-xs font-mono text-[var(--muted)]">

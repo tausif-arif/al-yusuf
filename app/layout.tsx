@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://alyusuf.com"),
   title: "Al Yusuf Hajj & Umrah | Trusted Economy Package 2026 – Patna",
   description:
-    "Al Yusuf Tour & Travels Company, Patna — trusted Hajj & Umrah operator since 2010. All-inclusive Economy Package ₹87,000/- with flights, hotels near Haram, visa, meals, and zam zam water.",
+    "Al Yusuf Tour & Travels Company, Patna — trusted Hajj & Umrah operator. All-inclusive Economy Package ₹87,000/- with flights, hotels near Haram, visa, meals, and zam zam water.",
   openGraph: {
     title: "Al Yusuf Hajj & Umrah",
     description: "A Journey of Faith, A Lifetime of Reward. Trusted Economy Packages from Patna.",

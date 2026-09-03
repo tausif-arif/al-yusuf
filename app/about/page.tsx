@@ -6,7 +6,7 @@ import { ShieldCheck, HeartHandshake, MapPin, Award, Users, CheckCircle2 } from 
 export const metadata: Metadata = {
   title: "About Us | Al Yusuf Hajj & Umrah Tour & Travels Patna",
   description:
-    "Learn about Al Yusuf Tour & Travels Patna. Trusted Hajj & Umrah tour operator since 2010 offering all-inclusive economy and premium packages.",
+    "Learn about Al Yusuf Tour & Travels Patna. Trusted Hajj & Umrah tour operator offering all-inclusive economy and premium packages.",
 };
 
 export default function AboutPage() {
@@ -48,7 +48,7 @@ export default function AboutPage() {
             ABOUT AL YUSUF · PATNA HEADQUARTERS
           </div>
           <h1 className="display-lg font-bold tracking-tight mb-6">
-            Guiding Pilgrims with Honor, Trust &amp; Integrity Since 2010.
+            Guiding Pilgrims with Honor, Trust &amp; Integrity.
           </h1>
           <p className="text-lg md:text-xl text-[var(--muted)] font-light leading-relaxed max-w-3xl">
             Al Yusuf Tour &amp; Travels Company is Patna&apos;s premier Hajj and Umrah service provider. We specialize in hassle-free, affordable, and spiritually fulfilling sacred journeys.

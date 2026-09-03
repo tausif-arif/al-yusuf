@@ -70,7 +70,7 @@ export function Hero() {
           <div className="lg:col-span-7 z-20">
             <div className="flex items-center gap-2 mb-4 border border-zinc-200 bg-zinc-50 px-3 py-1.5 w-fit font-mono text-xs font-bold uppercase tracking-widest text-[var(--foreground)]">
               <Star className="w-3.5 h-3.5 text-[var(--green)]" />
-              Trusted since 2010
+              From Departure to Haram, We&apos;ve Got You Covered.
             </div>
 
             <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold mb-6 text-[var(--foreground)] tracking-tighter leading-none overflow-hidden">
